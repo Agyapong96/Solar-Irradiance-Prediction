@@ -1,4 +1,6 @@
-Solar Irradiance Prediction using Machine Learning
+# **Solar Irradiance Prediction using Machine Learning.**
+
+
 Renewable energy sources, such as solar energy, offer significant potential to meet global power demands while minimizing environmental impact. Solar energy is derived from solar irradiance. However, the variable and intermittent nature of solar irradiance presents challenges in making accurate predictions crucial for effectively managing energy systems.
 
 This project aims to comprehend and predict solar irradiance variability by employing five supervised machine learning models: Support Vector Regressor (SVR), NuSVR, Multi-layer Perceptron (MLP) Regressor, LGBM Regressor, and CatBoost Regressor. These models were chosen to conduct regression analysis on the target variable while introducing diversity in learning styles, such as kernelized, neural network, gradient boosting, and decision tree algorithms. This approach aims to evaluate and compare the performance of different algorithms on the dataset.
